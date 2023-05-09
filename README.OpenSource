@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "parking_lot",
+    "License": "Apache License V2.0",
+    "License File": "LICENSE-APACHE",
+    "Version Number": "0.12.1",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/Amanieu/parking_lot",
+    "Description": "More compact and efficient implementations of the standard synchronization primitives."
+  }
+]
